@@ -1,0 +1,7 @@
+C:\Users\post19\Downloads\Monsters-master\Monsters-master\Monsters\bin\Debug\Monsters.exe.config
+C:\Users\post19\Downloads\Monsters-master\Monsters-master\Monsters\bin\Debug\Monsters.exe
+C:\Users\post19\Downloads\Monsters-master\Monsters-master\Monsters\bin\Debug\Monsters.pdb
+C:\Users\post19\Downloads\Monsters-master\Monsters-master\Monsters\obj\Debug\Monsters.csprojAssemblyReference.cache
+C:\Users\post19\Downloads\Monsters-master\Monsters-master\Monsters\obj\Debug\Monsters.csproj.CoreCompileInputs.cache
+C:\Users\post19\Downloads\Monsters-master\Monsters-master\Monsters\obj\Debug\Monsters.exe
+C:\Users\post19\Downloads\Monsters-master\Monsters-master\Monsters\obj\Debug\Monsters.pdb
